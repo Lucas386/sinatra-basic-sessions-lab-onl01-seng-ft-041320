@@ -4,7 +4,7 @@ source "https://rubygems.org"
 # gem "rails"
 
 gem 'sinatra'
-    gem 'rake'
+    # gem 'rake'
     gem 'thin'
     gem 'shotgun'
     gem 'pry'
